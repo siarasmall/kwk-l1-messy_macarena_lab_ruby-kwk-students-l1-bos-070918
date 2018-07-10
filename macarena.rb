@@ -27,4 +27,4 @@ puts "Place your left hand on your right shoulder."
 puts "Bring your right hand up and around to the back of your head."
 
 # Step 8: FIXME
-puts 
+puts "Bring your left hand up and around to the back your head."
